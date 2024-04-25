@@ -1,6 +1,6 @@
 - 👋 Hello, welcome. I'm Yubo Yuan.
 - 🔭 I’m currently working on materials science with first-principles calculations.
 - 🌱 I’m currently studying in Westlake University in Hangzhou, Zhejiang Province, China.
-- 💬 You can find Python codes for figure plotting in my publication and post-processing operation of DFT calculations. Ask me anything about interesting scientific questions.
+- 💬 You can find Python codes for figure plotting in my publication and the post-processing operation of DFT calculations. Ask me anything about interesting scientific questions.
 - 📫 How to reach me: yuanyubo@wesktlake.edu.cn
 - ⚡ Fun fact: I did experiements in the previous.
